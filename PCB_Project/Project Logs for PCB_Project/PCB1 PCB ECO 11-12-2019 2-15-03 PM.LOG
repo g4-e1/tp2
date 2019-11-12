@@ -1,0 +1,60 @@
+Added Component: Designator=J1(BORNERA3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(BORNERA2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES300)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T3(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(TO92)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+SIG Pin=J2-1
+Added Pin To Net: NetName=+SIG Pin=R3-2
+Added Pin To Net: NetName=+SIG Pin=T2-1
+Added Net: Name=+SIG
+Added Pin To Net: NetName=-SIG Pin=J2-2
+Added Pin To Net: NetName=-SIG Pin=R4-2
+Added Pin To Net: NetName=-SIG Pin=T1-1
+Added Net: Name=-SIG
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=T1-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=T3-1
+Added Pin To Net: NetName=NetR5_1 Pin=T4-1
+Added Pin To Net: NetName=NetR5_1 Pin=T4-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=NetT1_3 Pin=T2-3
+Added Pin To Net: NetName=NetT1_3 Pin=T3-2
+Added Net: Name=NetT1_3
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VEE Pin=J1-3
+Added Pin To Net: NetName=VEE Pin=T3-3
+Added Pin To Net: NetName=VEE Pin=T4-3
+Added Net: Name=VEE
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
